@@ -9,7 +9,7 @@
 <p align="center">
   <em>Mastering the foundational data science tool that professionals use every day</em>
 </p>
-
+Understanding the Excel/Sheets UI
 Welcome to the comprehensive Excel for Data Science repository. This collection presents a structured approach to mastering Microsoft Excel as a powerful tool for data analysis, visualization, and business intelligence.
 
 <p align="center">
@@ -41,149 +41,234 @@ Despite the rise of specialized data science tools and programming languages, Ex
 
 ## 📚 Course Structure
 
-This repository is organized into progressive modules, each building on previous concepts:
+This repository is organized into progressive skill levels, each building on previous concepts:
 
-### 🧭 Module 0: Introduction
+## 🚩 Getting Started
+
+### 🚀 Chapter 0: Overview & Setup
 <details>
 <summary>Expand for details</summary>
 
-- **Course Overview and Goals**
-- **What is Excel and Why It Matters**
-- **Setting Up Your Learning Environment**
+- Excel's Importance for Data Analysts
+- Setting Up Your Learning Environment
+- **Project**: Set up your Excel/Google Sheets environment for data analysis  
+- **Practice Problems**:  
+  - Navigate the interface and enable key toolbars  
+  - Save a template setup file with your preferred settings  
 
 </details>
 
-### ⚙️ Module 1: Excel Setup & Configuration
+## 🟢 Beginner Level (Foundations)
+
+### 🖥️ Chapter 1: Introduction & Interface
 <details>
 <summary>Expand for details</summary>
 
-- **Installation Across Different Platforms**
-- **Interface Customization**
-- **Essential Settings for Data Science Work**
+- Understanding the Excel/Sheets UI
+- Workbook vs Worksheet
+- Cells, Rows, Columns, Ranges
+- Navigating and shortcut basics
+- **Project**: Create a simple workbook showing your weekly schedule
+- **Practice Problems**: Navigation challenges and interface exploration
 
 </details>
 
-### 📄 Module 2: Spreadsheet Fundamentals
+### 🔤 Chapter 2: Basic Operations
 <details>
 <summary>Expand for details</summary>
 
-- **Worksheets and Workbooks Organization**
-- **Navigation and Keyboard Shortcuts**
-- **Cell References (Relative, Absolute, Mixed)**
-- **Data Entry and Validation Techniques**
+- Data entry & formatting
+- Autofill, Flash Fill
+- Copy-paste techniques (Transpose, Paste Special)
+- Undo, Redo, Save, Autosave
+- **Project**: Build a daily task list with auto-fill and formatting features
+- **Practice Problems**: Data transformation exercises
 
 </details>
 
-### 🧮 Module 3: Mastering Formulas & Functions
+### 🎨 Chapter 3: Formatting Essentials
 <details>
 <summary>Expand for details</summary>
 
-- **Formula Basics and Operators**
-- **Logical Functions (IF, AND, OR, NOT)**
-- **Math Functions (SUM, PRODUCT, ROUND)**
-- **Statistical Functions (AVERAGE, MEDIAN, STDEV)**
-- **Array Formulas and Dynamic Arrays**
-- **Lookup Functions (VLOOKUP, HLOOKUP, INDEX, MATCH, XLOOKUP)**
-- **Text Manipulation Functions**
-- **Date and Time Functions**
+- Cell formatting (Fonts, Colors, Borders)
+- Conditional formatting
+- Number, Date, and Currency formats
+- Freeze panes, hide/unhide, group/ungroup
+- **Project**: Monthly budget planner with conditional formatting
+- **Practice Problems**: Advanced formatting challenges
 
 </details>
 
-### 📉 Module 4: Data Visualization with Charts
+### 🗂️ Chapter 4: Data Management Basics
 <details>
 <summary>Expand for details</summary>
 
-- **Chart Selection Principles**
-- **Basic Charts (Bar, Column, Line, Pie)**
-- **Advanced Charts (Waterfall, Funnel, Sunburst)**
-- **Statistical Charts (Histogram, Box Plot, Pareto)**
-- **Sparklines and Micro-charts**
-- **Custom Chart Formatting**
+- Sorting & Filtering
+- Data validation (Dropdown lists)
+- Find & Replace
+- Remove Duplicates
+- **Project**: Student record manager with dropdowns and data filters
+- **Practice Problems**: Data cleaning exercises
 
 </details>
 
-### 🧠 Module 5: Advanced Spreadsheet Techniques
+## 🟡 Intermediate Level (Analysis Tools)
+
+### 🧮 Chapter 5: Core Formulas & Functions
 <details>
 <summary>Expand for details</summary>
 
-- **Tables and Structured References**
-- **Conditional Formatting and Data Visualization**
-- **Named Ranges and Dynamic Named Ranges**
-- **Protection and Collaboration Features**
-- **Data Validation and Dropdown Lists**
+- Arithmetic (SUM, AVERAGE, MIN, MAX)
+- Text (LEFT, RIGHT, MID, LEN, CONCATENATE, TEXTJOIN)
+- Logical (IF, AND, OR, NOT)
+- Lookup (VLOOKUP, HLOOKUP, INDEX, MATCH)
+- COUNT functions (COUNT, COUNTA, COUNTIF, COUNTIFS)
+- **Project**: Employee performance report using logical and lookup functions
+- **Practice Problems**: Formula challenges and function mastery
 
 </details>
 
-### 📊 Module 6: PivotTables & PivotCharts
+### 📅 Chapter 6: Working with Dates & Times
 <details>
 <summary>Expand for details</summary>
 
-- **PivotTable Fundamentals**
-- **Calculated Fields and Items**
-- **PivotTable Designs and Layouts**
-- **Slicers and Timelines**
-- **PivotCharts for Interactive Dashboards**
+- TODAY, NOW
+- DATEDIF, DATE, EOMONTH, NETWORKDAYS
+- Custom date formatting
+- **Project**: Leave calculator showing days taken and days remaining
+- **Practice Problems**: Date calculation scenarios
 
 </details>
 
-### 🔬 Module 7: Advanced Data Analysis
+### 📋 Chapter 7: Tables & Named Ranges
 <details>
 <summary>Expand for details</summary>
 
-- **Data Analysis Add-ins**
-- **What-If Analysis and Scenario Manager**
-- **Data Tables and Goal Seek**
-- **Analysis ToolPak (Descriptive Statistics, Regression)**
-- **Solver for Optimization Problems**
+- Creating and formatting Tables
+- Structured references
+- Named ranges & their advantages
+- **Project**: Product inventory tracker with table formatting and dynamic formulas
+- **Practice Problems**: Table manipulation exercises
 
 </details>
 
-### 🔄 Module 8: Power Query (Get & Transform)
+### 📊 Chapter 8: Charts & Visualization
 <details>
 <summary>Expand for details</summary>
 
-- **Introduction to Power Query**
-- **Query Editor Interface**
-- **Data Transformation Techniques**
-- **Combining Data (Append vs. Merge)**
-- **Introduction to M Language**
-- **Refreshable Data Connections**
+- Line, Bar, Column, Pie Charts
+- Combo charts
+- Sparklines
+- Customizing chart elements (Legends, Axis, Labels)
+- **Project**: Sales performance dashboard with interactive charts
+- **Practice Problems**: Chart design challenges
 
 </details>
 
-### 🧮 Module 9: Power Pivot and DAX
+## 🔵 Advanced Level (Power Tools & Automation)
+
+### 🔄 Chapter 9: Pivot Tables
 <details>
 <summary>Expand for details</summary>
 
-- **Data Modeling Concepts**
-- **Power Pivot Window and Interface**
-- **Relationships and Cardinality**
-- **DAX Formula Language Basics**
-- **DAX Advanced Functions (CALCULATE, FILTER, ALL)**
-- **Time Intelligence Functions**
+- Creating Pivot Tables
+- Filters, Slicers, Value Fields, Grouping
+- Pivot Charts
+- **Project**: Analyze and summarize e-commerce sales with pivot tables and charts
+- **Practice Problems**: Advanced pivot table exercises
 
 </details>
 
-### 🐍 Module 10: Excel with Python Integration
+### ⚡ Chapter 10: Advanced Functions
 <details>
 <summary>Expand for details</summary>
 
-- **Excel and Python Ecosystem**
-- **Reading Excel Files with Pandas**
-- **Writing to Excel with Openpyxl**
-- **Automating Excel Tasks with Python**
-- **Excel as a Frontend for Python Applications**
+- XLOOKUP, XMATCH (Excel)
+- FILTER, UNIQUE, SORT
+- ARRAYFORMULA
+- INDIRECT, OFFSET
+- **Project**: Automated sales reporting tool using advanced formulas
+- **Practice Problems**: Complex formula challenges
 
 </details>
 
-### 🧰 Module 11: Project Work
+### 🔍 Chapter 11: Power Query (Excel)
 <details>
 <summary>Expand for details</summary>
 
-- **Project 1: Sales Dashboard**
-- **Project 2: Financial Analysis**
-- **Project 3: Predictive Modeling**
-- **Best Practices for Project Documentation**
+- Importing data
+- Cleaning and transforming datasets
+- Merging & appending tables
+- **Project**: Clean and consolidate multiple customer feedback files
+- **Practice Problems**: ETL process exercises
+
+</details>
+
+### ⚙️ Chapter 12: Macros & Automation
+<details>
+<summary>Expand for details</summary>
+
+- Introduction to Macros
+- Recording and running Macros
+- Google Apps Script basics
+- Task automation examples
+- **Project**: Create a macro to generate monthly payroll summaries
+- **Practice Problems**: Automation challenges
+
+</details>
+
+## 🟣 Bonus Chapters (Extra Power & Integration)
+
+### 👥 Chapter 13: Collaboration & Sharing
+<details>
+<summary>Expand for details</summary>
+
+- Sharing settings in Sheets and Excel
+- Real-time collaboration
+- Version history
+- Commenting and notes
+- **Project**: Collaborative team tracker with user comments and version logs
+- **Practice Problems**: Collaboration scenarios
+
+</details>
+
+### 🔌 Chapter 14: Connecting External Data
+<details>
+<summary>Expand for details</summary>
+
+- Importing CSV, JSON
+- Connecting to APIs in Google Sheets
+- Excel Data Connections (Power BI, databases)
+- **Project**: Build a live cryptocurrency price tracker using API integration
+- **Practice Problems**: Data connection exercises
+
+</details>
+
+### 📈 Chapter 15: Dashboard Building
+<details>
+<summary>Expand for details</summary>
+
+- Dashboard planning
+- Interactive elements (Dropdowns, Checkboxes)
+- KPIs, Trends, Conditional formatting tricks
+- Layout and presentation tips
+- **Project**: Executive business dashboard with KPIs, charts, and filters
+- **Practice Problems**: Dashboard design challenges
+
+</details>
+
+### 🐍 Chapter 16: Python in Excel (Office 365)
+<details>
+<summary>Expand for details</summary>
+
+- Introduction to Python in Excel
+- Python Editor Pane in Excel
+- Using pandas and matplotlib in cells
+- Analyzing Excel ranges with Python
+- Combining Excel formulas with Python output
+- Limitations and use-cases
+- **Project**: Build a dynamic data analysis using pandas and matplotlib
+- **Practice Problems**: Python-Excel integration exercises
 
 </details>
 
