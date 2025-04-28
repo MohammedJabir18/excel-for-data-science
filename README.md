@@ -90,7 +90,7 @@ This repository is organized into progressive skill levels, each building on pre
 <details>
 <summary>Expand for details</summary>
 
-- Cell formatting (Fonts, Colors, Borders)
+- Cell formatting (Fonts, Colors, Borders, Merge)
 - Conditional formatting
 - Number, Date, and Currency formats
 - Freeze panes, hide/unhide, group/ungroup
