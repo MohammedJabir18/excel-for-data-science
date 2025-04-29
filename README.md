@@ -118,6 +118,7 @@ This repository is organized into progressive skill levels, each building on pre
 <details>
 <summary>Expand for details</summary>
 
+- Understanding Cell References: Relative, Absolute, and Mixed (e.g., A1, $A$1, A$1, $A1)
 - Arithmetic (SUM, AVERAGE, MIN, MAX)
 - Text (LEFT, RIGHT, MID, LEN, CONCATENATE, TEXTJOIN)
 - Logical (IF, AND, OR, NOT)
